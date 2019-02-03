@@ -1,0 +1,5 @@
+var1= ABC
+var2=DEF
+var3=GHI
+var4=JKL
+var5=MNO
